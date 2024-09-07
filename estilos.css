@@ -1,0 +1,132 @@
+body {
+    background-color: #a3aee4;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px;    
+}
+#artigo {
+    font: normal 15pt Arial;
+    background-color: #7982B0;
+    padding: 13px;
+    padding-left: 15px;
+    margin: auto;
+    position: relative;        
+}
+#título {
+    background-color: #282B3B;
+    color: #c0c9f3;
+    padding: 10px;
+    margin: auto;    
+    text-align: center;
+}
+
+nav {
+    background-color: #282B3B;
+    padding: 10px;
+    border-bottom: #61688C;    
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px
+}
+
+nav a {
+    color: #7982B0;
+    text-decoration: none;
+    margin: auto;    
+}
+
+nav a:hover {
+    background-color: #545766;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.introduction{
+    border-top: 1px dashed #282B3B;
+    border-bottom: 1px dashed #282B3B;
+    
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.photo{
+    height: 500px;
+    width: 500px;
+}
+
+.image{
+    text-align: center;
+    margin: 10px;
+}
+
+.history-origins{
+    border-top: 1px dashed #545766;
+    border-bottom: 1px dashed #545766;    
+}
+
+.philosophy {
+    border-top: 1px dashed #545766;
+    border-bottom: 1px dashed #545766;    
+}
+
+.dacing {
+    border-radius: 5px;
+    background-color: #99A5DE;
+    margin: 10px;
+    padding: 15px;
+}
+
+.more-info {
+    border-top: 1px dashed #545766;
+    border-bottom: 1px dashed #545766; 
+}
+.list {
+    border-radius: 5px;
+    background-color: #99A5DE;
+    padding: 15px;
+    padding-left: 25px;
+    margin: 5px;
+}
+
+.sport-now {
+    border-top: 1px dashed #545766;
+    border-bottom: 1px dashed #545766;
+}
+
+.conclusion {
+    border-radius: 5px;
+    background-color: #99A5DE;
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+}
+
+.img-conclusion {
+    text-align: center;    
+}
+
+.onclick {
+    text-decoration: none;
+    color: #444a64;
+}
+
+p a:hover{
+    background-color: #545766;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+footer {
+    background-color: #343d69;
+    padding: 2px;
+    text-align: center;
+}
